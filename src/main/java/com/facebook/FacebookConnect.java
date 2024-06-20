@@ -7,7 +7,7 @@ import java.util.List;
 public class FacebookConnect {
 
     public static void main(String[] args) {
-        System.out.println("MySQL JDBC Connection Testing ~");
+        System.out.println("MySQL JDBC Connection change Testing ~");
 
 
         String SQL_SELECT = "Select * from facebook_emp";
